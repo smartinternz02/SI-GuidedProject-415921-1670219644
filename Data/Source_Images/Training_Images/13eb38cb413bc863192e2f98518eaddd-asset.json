@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "13eb38cb413bc863192e2f98518eaddd",
+        "name": "221.jpg",
+        "path": "file:D:/Pothole-Detection/Pothole-Detection-using-YOLO-v3-master/Data/Source_Images/Training_Images/221.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zUVOZjCyu",
+            "type": "RECTANGLE",
+            "tags": [
+                "pothole"
+            ],
+            "boundingBox": {
+                "height": 592.258064516129,
+                "width": 693.057045417746,
+                "left": 906.9430557804404,
+                "top": 200.21891932333668
+            },
+            "points": [
+                {
+                    "x": 906.9430557804404,
+                    "y": 200.21891932333668
+                },
+                {
+                    "x": 1600.0001011981865,
+                    "y": 200.21891932333668
+                },
+                {
+                    "x": 1600.0001011981865,
+                    "y": 792.4769838394657
+                },
+                {
+                    "x": 906.9430557804404,
+                    "y": 792.4769838394657
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
